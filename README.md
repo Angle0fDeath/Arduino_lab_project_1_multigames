@@ -17,6 +17,6 @@ Software & Hardware:
 - LCD (Liquid – crystal display) (1 x piece)
 - Joystick (1 x piece)
 - Jumper wires (as many as needed)
-- Rezistors (1 x 330 Ohm, 1 x 30k Ohm, 1 x 1k Ohm)
-- Capacitor (1 x 104, 1 x 100 microF)
+- Rezistors (1 x 330Ω, 1 x 30kΩ, 1 x 1kΩ)
+- Capacitor (1 x 104, 1 x 100 µF)
 - Breadboard (2 x pieces)
