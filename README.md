@@ -1,5 +1,6 @@
 # Arduino_lab_project_1_multigames
 
+	------- GHITA ALEXANDRU	---------
 Game Description:
 
   The game consists in 3 games, from whom only 2 are available in the free version and only 1 entirely.
