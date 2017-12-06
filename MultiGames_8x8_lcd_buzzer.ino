@@ -803,13 +803,13 @@ void loop()
     //Citirea de joystick cu contitia: sus = 2, jos = -2, dreapta = 1, stanga = -1, rest = 0
     joyDirection = 0;
     if (valueX > 868 && valueY > 248 && valueY < 868)
-      joyDirection = -2;
-    if (valueX < 268 && valueY > 248 && valueY < 868)
-      joyDirection = 2;
-    if (valueY > 868 && valueX > 248 && valueX < 868)
-      joyDirection = 1;
-    if (valueY < 268 && valueX > 248 && valueX < 868)
       joyDirection = -1;
+    if (valueX < 268 && valueY > 248 && valueY < 868)
+      joyDirection = 1;
+    if (valueY > 868 && valueX > 248 && valueX < 868)
+      joyDirection = -2;
+    if (valueY < 268 && valueX > 248 && valueX < 868)
+      joyDirection = 2;
   }
   switch (change)
   {
