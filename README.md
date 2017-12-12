@@ -21,3 +21,6 @@ Software & Hardware:
 - Rezistors (1 x 330Ω, 1 x 30kΩ, 1 x 1kΩ)
 - Capacitor (1 x 104, 1 x 100 µF)
 - Breadboard (2 x pieces)
+
+
+Video of game: https://drive.google.com/open?id=18CMOdHuhOusppqXyUjSe4dFnks-6DAm3
